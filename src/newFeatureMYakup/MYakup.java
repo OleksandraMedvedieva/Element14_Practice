@@ -1,6 +1,6 @@
-package newFeatureOleksandra;
+package newFeatureMYakup;
 
-public class Oleksandra {
+public class MYakup {
     public static void main(String[] args) {
         System.out.println("Hello");
     }
