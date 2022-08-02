@@ -1,6 +1,6 @@
-package feature_Maya;
+package feature_Kassya;
 
-public class MayaTheGreat {
+public class Kassya_XD {
     /*
     All the single ladies, all the single ladies...
 
