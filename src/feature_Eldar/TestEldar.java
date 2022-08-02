@@ -1,4 +1,4 @@
-package Eldar;
+package feature_Eldar;
 
 public class TestEldar {
 
