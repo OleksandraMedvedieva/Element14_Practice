@@ -1,4 +1,4 @@
 package inheritPack;
 
-public class Tiger {
+public class Tiger extends Animal{
 }
