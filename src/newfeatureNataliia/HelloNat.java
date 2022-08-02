@@ -6,6 +6,8 @@ public class HelloNat {
 
         System.out.println("Hello");
 
+
         System.out.println("Hello2");
+
     }
 }
