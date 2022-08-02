@@ -3,6 +3,7 @@ package testBogdan;
 public class Bogdan {
 
     public static void main(String[] args) {
+
         System.out.println("Why are you so serious? :)");
     }
 
