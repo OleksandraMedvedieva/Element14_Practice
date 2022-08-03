@@ -6,5 +6,7 @@ public class newClassFeature3 {
         System.out.println("Hello 03");
 
         System.out.println("Hello 04");
+
+        System.out.println("Hello 05");
     }
 }
